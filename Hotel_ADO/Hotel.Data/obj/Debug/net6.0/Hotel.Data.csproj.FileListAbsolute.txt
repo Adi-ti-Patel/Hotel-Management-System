@@ -1,0 +1,15 @@
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\obj\Debug\net6.0\Hotel.Data.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\obj\Debug\net6.0\Hotel.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\obj\Debug\net6.0\Hotel.Data.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\obj\Debug\net6.0\Hotel.Data.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\obj\Debug\net6.0\Hotel.Data.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\bin\Debug\net6.0\Hotel.Data.deps.json
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\bin\Debug\net6.0\Hotel.Data.dll
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\bin\Debug\net6.0\Hotel.Data.pdb
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\bin\Debug\net6.0\Hotel.Bussiness.dll
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\bin\Debug\net6.0\Hotel.Bussiness.pdb
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\obj\Debug\net6.0\Hotel.Data.csproj.CopyComplete
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\obj\Debug\net6.0\Hotel.Data.dll
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\obj\Debug\net6.0\refint\Hotel.Data.dll
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\obj\Debug\net6.0\Hotel.Data.pdb
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Hotel_ADO\Hotel.Data\obj\Debug\net6.0\ref\Hotel.Data.dll

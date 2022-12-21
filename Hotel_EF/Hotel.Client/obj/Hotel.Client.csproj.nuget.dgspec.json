@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Client\\Hotel.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Bussiness\\Hotel.Bussiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Bussiness\\Hotel.Bussiness.csproj",
+        "projectName": "Hotel.Bussiness",
+        "projectPath": "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Bussiness\\Hotel.Bussiness.csproj",
+        "packagesPath": "C:\\Users\\Aditi.Patel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Bussiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aditi.Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Client\\Hotel.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Client\\Hotel.Client.csproj",
+        "projectName": "Hotel.Client",
+        "projectPath": "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Client\\Hotel.Client.csproj",
+        "packagesPath": "C:\\Users\\Aditi.Patel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aditi.Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Bussiness\\Hotel.Bussiness.csproj": {
+                "projectPath": "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Bussiness\\Hotel.Bussiness.csproj"
+              },
+              "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Data\\Hotel.Data.csproj": {
+                "projectPath": "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Data\\Hotel.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Data\\Hotel.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Data\\Hotel.Data.csproj",
+        "projectName": "Hotel.Data",
+        "projectPath": "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Data\\Hotel.Data.csproj",
+        "packagesPath": "C:\\Users\\Aditi.Patel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aditi.Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Bussiness\\Hotel.Bussiness.csproj": {
+                "projectPath": "C:\\Users\\Aditi.Patel\\source\\repos\\Net_Core_PreRequisite\\Hotel_EF\\Hotel.Bussiness\\Hotel.Bussiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
